@@ -1,0 +1,159 @@
+h3 {
+
+}
+
+p {
+	font-weight: 300;
+}
+
+strong {
+	font-weight: 800;
+}
+
+hr {
+	width: 40%;
+	margin-left: 0; 
+	border: 2px solid #FFF;
+}
+
+.btn-primary {
+	background-color: #133b5c;
+}
+
+.btn-primary:hover {
+	background-color: #ffc93c;
+}
+
+
+/*Navigation*/
+#logo {
+	width: 5rem;
+}
+.navbar-brand {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 600;
+}
+
+.nav-item {
+	padding: 20px;
+}
+
+/*Banner Header*/
+
+#banner-header{
+	background: url(https://images.pexels.com/photos/697243/pexels-photo-697243.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+
+.header-copy {
+	text-align: center;
+	padding: 10% 15%;
+}
+
+.header-title {
+	color: #fff;
+	padding-bottom: 1%;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 900;
+	font-size: 3.5rem;
+}
+
+.header-subtitle {
+	color: #fff;
+	padding-bottom: 1%;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 2rem;
+}
+
+/*WHY GO SOLAR*/
+
+#whySolar {
+	padding: 5% 10%;
+}
+
+#whySolar .card {
+	border: none;
+}
+
+.card-body {
+	padding: 20px 0px 0px;
+}
+
+.card-title {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 1.3rem;
+	font-weight: 800;
+
+}
+
+.card-text {
+	line-height: 2;
+	font-size: 1rem;
+}
+
+/*Contact Us*/
+
+#aboutUs {
+	padding: 5% 10%;
+	background-color: #f5f5fa;
+}
+
+.aboutusTEXT {
+	line-height: 2;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 1.3rem;
+	text-align: center;
+	padding-top: 3%;
+}
+
+.aboutTitle {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 800;
+	font-size: 2rem;
+	text-align: center;
+	line-height: 1.5;
+	padding-top: 5%;
+}
+
+#contactUs {
+
+	padding: 5% 10%;
+}
+
+#contactUs h3 {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 800;
+	font-size: 2rem;
+	line-height: 1.5;
+}
+
+#contactUs p {
+	line-height: 2;
+	font-size: 1rem;
+}
+
+.contactTitle {
+	padding: 5% 3%;
+}
+
+/*FOOTER*/
+
+#footer {
+	text-align: center;
+	padding: 1%;
+	background-color: #ffbb91;
+}
+
+.fab {
+	color: #fff;
+	padding: 8px 24px 8px;
+}
+
+#footer p {
+	color: #fff;
+	padding: 1%;
+}
